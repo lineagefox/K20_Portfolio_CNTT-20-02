@@ -4,7 +4,7 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ Vũ Triệu  ]
+- Họ và tên: [ Vũ Triệu Hoàng ]
 - Mã sinh viên – Lớp: [ 2071090067 / 20-02 CNTT ]
 - Ngày thực hiện: [ 30/10/2026 ]
 - Link repository: [ ... ]
