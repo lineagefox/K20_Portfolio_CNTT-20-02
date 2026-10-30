@@ -7,8 +7,8 @@
 - Họ và tên: [ Vũ Triệu Hoàng ]
 - Mã sinh viên – Lớp: [ 2071090067 / 20-02 CNTT ]
 - Ngày thực hiện: [ 30/10/2026 ]
-- Link repository: [ ... ]
-- URL website: [ ... ]
+- Link repository: [ https://github.com/lineagefox/K20_Portfolio_CNTT-20-02.git ]
+- URL website: [ https://lineagefox.github.io/K20_Portfolio_CNTT-20-02/ ](https://lineagefox.github.io/K20_Portfolio_CNTT-20-02/)
 - Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
