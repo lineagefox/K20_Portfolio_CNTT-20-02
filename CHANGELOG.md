@@ -1,4 +1,5 @@
-- 76d2119 - 2026-10-30 - Update AI_log.md
+## V7 - Portfolio cá nhân
+ 76d2119 - 2026-10-30 - Update AI_log.md
 - 548f9dc - 2026-10-30 - Update README.md
 - e754f54 - 2026-10-30 - Update index.html
 - 4529041 - 2026-10-30 - Update AI_log.md
